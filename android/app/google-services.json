@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458080924707",
+    "project_id": "ecgproject-e3df5",
+    "storage_bucket": "ecgproject-e3df5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458080924707:android:e9142cd9ce4e7376ffad96",
+        "android_client_info": {
+          "package_name": "com.example.ecg_health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTO6E9J8KlT5Ltp6Voa67LcPtu9eAFS6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
